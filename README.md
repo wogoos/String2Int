@@ -6,5 +6,5 @@ Recently I needed a simple procedure to convert any charter patern to a value. I
 the only one with this problem and since githup has helped me a lot I thought let me do something 
 for those who need a solution to convert character pattern to a integers.
 
-It seems that there is a what to convert enumerated identifiers to its enumerated values but I couldn't 
-completely understand it. Any one who has more simple ways to solve this string int problem let me know.
+It seems that there is an other method to convert strings to integers based on enumerated types and 
+their identifiers. hw that sis done is not clear to me.Any one who has a more simple ways to solve this string2int problem let me know.
