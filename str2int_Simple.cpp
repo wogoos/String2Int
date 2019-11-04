@@ -4,15 +4,15 @@
 	Author		: Oscar Goos
 	Email		: wogoos@gmx.com
 	Code		: C++, Flash : , RAM
-	Contrcoller : x86, Atmega, esp8266
-	Last tested : 4 - Nov - 2019
+	Contrcoller 	: x86, Atmega, esp8266
+	Last tested 	: 4 - Nov - 2019
 			 
 	Notes		: Command list can have any sequenc of commands/str seperated by commas.  
-				: Best practice place short str/cmds in the beginning of the string
-				: Arduino programmers, this string may be located in PROGMEM
-				: The case xx: values are the positions+1 of the comma's in the list string;
-				: This is the simple version with minimum coding overhead but ... don't toutch the string.
-				: the return values can have any you like associated with the string or command
+			: Best practice place short str/cmds in the beginning of the string
+			: Arduino programmers, this string may be located in PROGMEM
+			: The case xx: values are the positions+1 of the comma's in the list string;
+			: This is the simple version with minimum coding overhead but ... don't toutch the string.
+			: the return values can have any you like associated with the string or command
 */
 
 #include <stdio.h>
