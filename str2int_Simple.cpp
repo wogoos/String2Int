@@ -23,7 +23,7 @@
 
 
 char		list[]	= "cmd_one,cmd_two,cmd_three,cmd_four,cmd_five,cmd_six,error";
-char		buf[]		= "longest command in the list";
+char		buf[]	= "longest command in the list";
 
 
 uint16_t str2enum(char* strg) {			// convert annay string to any value
